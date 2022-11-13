@@ -26,10 +26,11 @@ Look at the git history using `git log`.
 3. Go back to the latest commit with `git checkout master`
 
 ## Exercise 6
-1. Wait for the trainer to update the remote repo
+1. Use the fact the trainer updated the remote
 2. Fetch the changes with `git fetch`
 3. Pull the changes with `git pull`
 4. Use `git diff` to find out what is now different
+> If you see this line you were successful! Nice job.
 
 ## Exercise 7
 1. Wait for the trainer to update the remote repo
