@@ -1,1 +1,4 @@
 this is new
+=======
+A new file.
+>>>>>>> bebb656ee5e638120959ce33cda76697e1dfc833
